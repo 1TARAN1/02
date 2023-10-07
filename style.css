@@ -97,3 +97,22 @@ ul {
     line-height: 0.66;
     letter-spacing: 0.02em;
 }
+.footer {
+    background-color: #2E2F42;
+}
+.footer-main {
+    color: var(--CLOUD, #F4F4FD);
+}
+.logo-main {
+color: var(--CLOUD, #F4F4FD);
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.03em;
+text-decoration: none;
+text-transform: uppercase;}
+
+.footer-logo-web {
+    color: var(--IRIS, #4D5AE5);
+}
